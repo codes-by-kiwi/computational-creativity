@@ -1,0 +1,30 @@
+{
+  "runs": [
+    {
+      "run_id": "run_1767666812_0452",
+      "timestamp": "2026-01-06T02:33:32Z",
+      "parents": [
+        "ern:product::TO221N0I9-K11",
+        "ern:product::A0Q21N07U-K11"
+      ],
+      "constraints": {
+        "category": "any",
+        "parentA_category": "any",
+        "parentB_category": "any",
+        "styleA": "manual",
+        "styleB": "manual",
+        "parentA_garment_type": null,
+        "parentB_garment_type": null
+      },
+      "mixing": {
+        "alpha": 0.5,
+        "mode": "diffusion"
+      },
+      "output": {
+        "image_path": "outputs\\run_1767666812_0452_diffusion.png",
+        "stage": "fused_img2img"
+      },
+      "feedback": []
+    }
+  ]
+}

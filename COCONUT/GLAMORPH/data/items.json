@@ -1,0 +1,1788 @@
+{
+  "items": [
+    {
+      "item_id": "ern:product::BY221A000-C14",
+      "image_path": "data\\zalando_images\\ern_product_BY221A000-C14.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "b.young",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/byoung-danta-crop-chino-vetiver-melange-by221a000-c14.html"
+    },
+    {
+      "item_id": "ern:product::DA321C0B5-T11",
+      "image_path": "data\\zalando_images\\ern_product_DA321C0B5-T11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "DAY Birger et Mikkelsen",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/day-birger-et-mikkelsen-walker-cocktailjurk-multi-coloured-da321c0b5-t11.html"
+    },
+    {
+      "item_id": "ern:product::M9121C7XM-G11",
+      "image_path": "data\\zalando_images\\ern_product_M9121C7XM-G11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Mango",
+      "style_tags": [
+        "casual",
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/mango-jurk-bordeaux-m9121c7xm-g11.html"
+    },
+    {
+      "item_id": "ern:product::ADK21C06O-Q11",
+      "image_path": "data\\zalando_images\\ern_product_ADK21C06O-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "adL",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/adl-blousejurk-black-adk21c06o-q11.html"
+    },
+    {
+      "item_id": "ern:product::COY21A005-C11",
+      "image_path": "data\\zalando_images\\ern_product_COY21A005-C11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Copenhagen Studios",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/copenhagen-studios-broek-dunkelgrau-coy21a005-c11.html"
+    },
+    {
+      "item_id": "ern:product::AM221S01L-K11",
+      "image_path": "data\\zalando_images\\ern_product_AM221S01L-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "American Vintage",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/american-vintage-jeansshort-denim-bleu-am221s01l-k11.html"
+    },
+    {
+      "item_id": "ern:product::BTY21N019-K11",
+      "image_path": "data\\zalando_images\\ern_product_BTY21N019-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Breal",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/breal-straight-leg-jeans-denim-bleach-bty21n019-k11.html"
+    },
+    {
+      "item_id": "ern:product::CE321C0HT-I11",
+      "image_path": "data\\zalando_images\\ern_product_CE321C0HT-I11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Cecil",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/cecil-blousejurk-pink-ce321c0ht-i11.html"
+    },
+    {
+      "item_id": "ern:product::VEE21N0A9-K11",
+      "image_path": "data\\zalando_images\\ern_product_VEE21N0A9-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Vero Moda Curve",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/vero-moda-curve-vmtessa-wide-jeans-curve-relaxed-fit-jeans-dark-blue-denim-vee21n0a9-k11.html"
+    },
+    {
+      "item_id": "ern:product::MOW21C0O7-Q11",
+      "image_path": "data\\zalando_images\\ern_product_MOW21C0O7-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Motivi",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/motivi-gebreide-jurk-nero-mow21c0o7-q11.html"
+    },
+    {
+      "item_id": "ern:product::F8622G01C-K11",
+      "image_path": "data\\zalando_images\\ern_product_F8622G01C-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "FAVELA",
+      "style_tags": [
+        "formal",
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/favela-cut-blue-denim-unisex-relaxed-fit-jeans-blue-f8622g01c-k11.html"
+    },
+    {
+      "item_id": "ern:product::SO821A0AM-M12",
+      "image_path": "data\\zalando_images\\ern_product_SO821A0AM-M12.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Soyaconcept",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/soyaconcept-sc-banu-157-trainingsbroek-misty-olive-so821a0am-m12.html"
+    },
+    {
+      "item_id": "ern:product::A1S21C07B-Q11",
+      "image_path": "data\\zalando_images\\ern_product_A1S21C07B-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Angel of Style",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/angel-of-style-jurk-black-a1s21c07b-q11.html"
+    },
+    {
+      "item_id": "ern:product::UP121C25Q-Q11",
+      "image_path": "data\\zalando_images\\ern_product_UP121C25Q-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Ulla Popken",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/ulla-popken-jurk-black-up121c25q-q11.html"
+    },
+    {
+      "item_id": "ern:product::GU121C1O3-J11",
+      "image_path": "data\\zalando_images\\ern_product_GU121C1O3-J11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Guess",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/guess-elvire-sangallo-jurk-rose-gu121c1o3-j11.html"
+    },
+    {
+      "item_id": "ern:product::GAH21N033-K11",
+      "image_path": "data\\zalando_images\\ern_product_GAH21N033-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Gap Tall",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/gap-tall-heron-bootcut-jeans-medium-indigo-gah21n033-k11.html"
+    },
+    {
+      "item_id": "ern:product::S8521A1HN-M11",
+      "image_path": "data\\zalando_images\\ern_product_S8521A1HN-M11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Street One",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/street-one-wide-leg-mit-jogg-bund-trainingsbroek-gruen-s8521a1hn-m11.html"
+    },
+    {
+      "item_id": "ern:product::EVO29B011-Q11",
+      "image_path": "data\\zalando_images\\ern_product_EVO29B011-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Even&Odd Maternity",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/evenandodd-maternity-trainingsbroek-black-evo29b011-q11.html"
+    },
+    {
+      "item_id": "ern:product::BFY21C0EP-I11",
+      "image_path": "data\\zalando_images\\ern_product_BFY21C0EP-I11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "BWLDR",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/bwldr-reenie-maxi-jurk-lilac-bfy21c0ep-i11.html"
+    },
+    {
+      "item_id": "ern:product::Y0021A09P-G11",
+      "image_path": "data\\zalando_images\\ern_product_Y0021A09P-G11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "YOEK",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/yoek-broek-red-y0021a09p-g11.html"
+    },
+    {
+      "item_id": "ern:product::R1Y21N02P-K11",
+      "image_path": "data\\zalando_images\\ern_product_R1Y21N02P-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "RE/DONE",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/redone-easy-straight-crop-relaxed-fit-jeans-cebra-r1y21n02p-k11.html"
+    },
+    {
+      "item_id": "ern:product::L4U21C10Q-J11",
+      "image_path": "data\\zalando_images\\ern_product_L4U21C10Q-J11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "LolaLiza",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/lolaliza-blousejurk-cosmetic-pink-l4u21c10q-j11.html"
+    },
+    {
+      "item_id": "ern:product::N1241E1M6-G15",
+      "image_path": "data\\zalando_images\\ern_product_N1241E1M6-G15.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Nike Performance",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/nike-performance-zenvy-tights-burgundy-crushblack-n1241e1m6-g15.html"
+    },
+    {
+      "item_id": "ern:product::TOB21N0V3-K11",
+      "image_path": "data\\zalando_images\\ern_product_TOB21N0V3-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Tommy Jeans",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/tommy-jeans-nora-jeans-skinny-fit-denim-ultra-light-tob21n0v3-k11.html"
+    },
+    {
+      "item_id": "ern:product::NX321N0A8-Q13",
+      "image_path": "data\\zalando_images\\ern_product_NX321N0A8-Q13.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "model",
+      "brand": "Next",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/next-lift-slim-fit-jeans-clean-black-nx321n0a8-q13.html"
+    },
+    {
+      "item_id": "ern:product::AD121S0DI-H11",
+      "image_path": "data\\zalando_images\\ern_product_AD121S0DI-H11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "adidas Originals",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/adidas-originals-shorts-bold-orange-ad121s0di-h11.html"
+    },
+    {
+      "item_id": "ern:product::LUQ21C09F-O11",
+      "image_path": "data\\zalando_images\\ern_product_LUQ21C09F-O11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Luisa Spagnoli",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/luisa-spagnoli-giulia-jurk-marrone-bronzo-luq21c09f-o11.html"
+    },
+    {
+      "item_id": "ern:product::DS821A01S-C11",
+      "image_path": "data\\zalando_images\\ern_product_DS821A01S-C11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "model",
+      "brand": "Desires",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/desires-broek-dark-grey-print-ds821a01s-c11.html"
+    },
+    {
+      "item_id": "ern:product::M9121A3VU-G11",
+      "image_path": "data\\zalando_images\\ern_product_M9121A3VU-G11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Mango",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/mango-broek-wijnrood-m9121a3vu-g11.html"
+    },
+    {
+      "item_id": "ern:product::V1021C4ZQ-G11",
+      "image_path": "data\\zalando_images\\ern_product_V1021C4ZQ-G11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "VILA",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/vila-jerseyjurk-mars-red-v1021c4zq-g11.html"
+    },
+    {
+      "item_id": "ern:product::BEJ21C1V0-G11",
+      "image_path": "data\\zalando_images\\ern_product_BEJ21C1V0-G11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Bershka",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/bershka-jurk-dark-red-bej21c1v0-g11.html"
+    },
+    {
+      "item_id": "ern:product::SO521N00B-K12",
+      "image_path": "data\\zalando_images\\ern_product_SO521N00B-K12.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Sofie Schnoor",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/sofie-schnoor-flared-jeans-light-denim-blue-so521n00b-k12.html"
+    },
+    {
+      "item_id": "ern:product::BP421N00V-K11",
+      "image_path": "data\\zalando_images\\ern_product_BP421N00V-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Baum und Pferdgarten",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/baum-und-pferdgarten-narane-relaxed-fit-jeans-blue-denim-bp421n00v-k11.html"
+    },
+    {
+      "item_id": "ern:product::L8321C07C-Q11",
+      "image_path": "data\\zalando_images\\ern_product_L8321C07C-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "LASCANA",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/lascana-jurk-schwarz-l8321c07c-q11.html"
+    },
+    {
+      "item_id": "ern:product::L1221N0IQ-K11",
+      "image_path": "data\\zalando_images\\ern_product_L1221N0IQ-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "model",
+      "brand": "Le Temps Des Cerises",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/le-temps-des-cerises-carpenter-jeans-bleu-l1221n0iq-k11.html"
+    },
+    {
+      "item_id": "ern:product::BFY21C0GK-M11",
+      "image_path": "data\\zalando_images\\ern_product_BFY21C0GK-M11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "BWLDR",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/bwldr-chelsea-maxi-jurk-emerald-bfy21c0gk-m11.html"
+    },
+    {
+      "item_id": "ern:product::MYR21A02A-Q11",
+      "image_path": "data\\zalando_images\\ern_product_MYR21A02A-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "My Essential Wardrobe",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/my-essential-wardrobe-broek-black-myr21a02a-q11.html"
+    },
+    {
+      "item_id": "ern:product::NX321A2KO-Q11",
+      "image_path": "data\\zalando_images\\ern_product_NX321A2KO-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Next",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/next-broek-black-nx321a2ko-q11.html"
+    },
+    {
+      "item_id": "ern:product::BFY21C0EP-K11",
+      "image_path": "data\\zalando_images\\ern_product_BFY21C0EP-K11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "BWLDR",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/bwldr-maxi-jurk-navy-blue-bfy21c0ep-k11.html"
+    },
+    {
+      "item_id": "ern:product::TAS21C0P7-G11",
+      "image_path": "data\\zalando_images\\ern_product_TAS21C0P7-G11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "TATUUM",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/tatuum-jurk-red-tas21c0p7-g11.html"
+    },
+    {
+      "item_id": "ern:product::ON321N2E6-K12",
+      "image_path": "data\\zalando_images\\ern_product_ON321N2E6-K12.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "ONLY",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/only-onljuicy-life-wide-pocket-straight-leg-jeans-dark-medium-blue-denim-on321n2e6-k12.html"
+    },
+    {
+      "item_id": "ern:product::E1N21N01F-A11",
+      "image_path": "data\\zalando_images\\ern_product_E1N21N01F-A11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "model",
+      "brand": "Elara",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/elara-push-up-highwaist-jeans-skinny-fit-weiss-e1n21n01f-a11.html"
+    },
+    {
+      "item_id": "ern:product::UP121C0VH-O11",
+      "image_path": "data\\zalando_images\\ern_product_UP121C0VH-O11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Ulla Popken",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/ulla-popken-bolero-jerseyjurk-moosgruen-up121c0vh-o11.html"
+    },
+    {
+      "item_id": "ern:product::PE121N1FT-K12",
+      "image_path": "data\\zalando_images\\ern_product_PE121N1FT-K12.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Pepe Jeans",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/pepe-jeans-gina-broek-dazed-blue-pe121n1ft-k12.html"
+    },
+    {
+      "item_id": "ern:product::RE321N0N0-K11",
+      "image_path": "data\\zalando_images\\ern_product_RE321N0N0-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Replay",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/replay-new-luz-bootcut-pants-bootcut-jeans-medium-blue-re321n0n0-k11.html"
+    },
+    {
+      "item_id": "ern:product::TO221N0I9-K11",
+      "image_path": "data\\zalando_images\\ern_product_TO221N0I9-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "TOM TAILOR",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/tom-tailor-jeans-tapered-fit-used-light-stone-blue-denim-to221n0i9-k11.html"
+    },
+    {
+      "item_id": "ern:product::TOV21U07F-K11",
+      "image_path": "data\\zalando_images\\ern_product_TOV21U07F-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Touché Privé",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/touche-prive-broek-navy-blue-tov21u07f-k11.html"
+    },
+    {
+      "item_id": "ern:product::OND21A0EJ-C11",
+      "image_path": "data\\zalando_images\\ern_product_OND21A0EJ-C11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "ONLY Tall",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/only-tall-onlsvea-life-pull-up-broek-dark-grey-melange-ond21a0ej-c11.html"
+    },
+    {
+      "item_id": "ern:product::VE121C4WT-Q11",
+      "image_path": "data\\zalando_images\\ern_product_VE121C4WT-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Vero Moda",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/vero-moda-blousejurk-black-ve121c4wt-q11.html"
+    },
+    {
+      "item_id": "ern:product::PE121N1I5-K11",
+      "image_path": "data\\zalando_images\\ern_product_PE121N1I5-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Pepe Jeans",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/pepe-jeans-nicky-wijde-jeans-light-blue-denim-pe121n1i5-k11.html"
+    },
+    {
+      "item_id": "ern:product::BFY21C0CL-G12",
+      "image_path": "data\\zalando_images\\ern_product_BFY21C0CL-G12.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "BWLDR",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/bwldr-lana-maxi-jurk-burgundy-bfy21c0cl-g12.html"
+    },
+    {
+      "item_id": "ern:product::SCF21C08M-G11",
+      "image_path": "data\\zalando_images\\ern_product_SCF21C08M-G11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Scalpers",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/scalpers-jurk-burgundy-scf21c08m-g11.html"
+    },
+    {
+      "item_id": "ern:product::7F121N1EP-K11",
+      "image_path": "data\\zalando_images\\ern_product_7F121N1EP-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "7 for all mankind",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/7-for-all-mankind-relaxed-fit-jeans-radar-7f121n1ep-k11.html"
+    },
+    {
+      "item_id": "ern:product::RI521A0BF-Q11",
+      "image_path": "data\\zalando_images\\ern_product_RI521A0BF-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Rich & Royal",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/rich-and-royal-broek-black-ri521a0bf-q11.html"
+    },
+    {
+      "item_id": "ern:product::QM421N017-K16",
+      "image_path": "data\\zalando_images\\ern_product_QM421N017-K16.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Marks & Spencer",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/marks-and-spencer-slim-fit-jeans-light-indigo-qm421n017-k16.html"
+    },
+    {
+      "item_id": "ern:product::ED221S00A-K12",
+      "image_path": "data\\zalando_images\\ern_product_ED221S00A-K12.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Ed Hardy",
+      "style_tags": [
+        "formal",
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/ed-hardy-born-wild-jeansshort-indigo-ed221s00a-k12.html"
+    },
+    {
+      "item_id": "ern:product::CE321N14X-K11",
+      "image_path": "data\\zalando_images\\ern_product_CE321N14X-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Cecil",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/cecil-straight-leg-jeans-blau-ce321n14x-k11.html"
+    },
+    {
+      "item_id": "ern:product::KA321N03G-K11",
+      "image_path": "data\\zalando_images\\ern_product_KA321N03G-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Kaffe",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/kaffe-flared-jeans-medium-blue-denim-ka321n03g-k11.html"
+    },
+    {
+      "item_id": "ern:product::6CA21000S-Q11",
+      "image_path": "data\\zalando_images\\ern_product_6CA21000S-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Calvin Klein",
+      "style_tags": [
+        "casual",
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/calvin-klein-unisex-trainingsbroek-black-6ca21000s-q11.html"
+    },
+    {
+      "item_id": "ern:product::KAN21A01Y-Q12",
+      "image_path": "data\\zalando_images\\ern_product_KAN21A01Y-Q12.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Kaffe Curve",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/kaffe-curve-culotte-broek-black-oyster-kan21a01y-q12.html"
+    },
+    {
+      "item_id": "ern:product::LI721C250-K12",
+      "image_path": "data\\zalando_images\\ern_product_LI721C250-K12.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Lipsy",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/lipsy-off-the-shoulder-gathered-waist-midi-jerseyjurk-navy-li721c250-k12.html"
+    },
+    {
+      "item_id": "ern:product::7SA2100H6-Q11",
+      "image_path": "data\\zalando_images\\ern_product_7SA2100H6-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Santa Cruz",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/santa-cruz-big-pants-unisex-broek-black-cord-7sa2100h6-q11.html"
+    },
+    {
+      "item_id": "ern:product::NX321N14V-B11",
+      "image_path": "data\\zalando_images\\ern_product_NX321N14V-B11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Next",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/next-relaxed-fit-jeans-stone-nx321n14v-b11.html"
+    },
+    {
+      "item_id": "ern:product::Z1721A0N6-Q11",
+      "image_path": "data\\zalando_images\\ern_product_Z1721A0N6-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Zizzi",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/zizzi-broek-black-z1721a0n6-q11.html"
+    },
+    {
+      "item_id": "ern:product::L1221N0L9-K11",
+      "image_path": "data\\zalando_images\\ern_product_L1221N0L9-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "model",
+      "brand": "Le Temps Des Cerises",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/le-temps-des-cerises-wijde-jeans-bleu-l1221n0l9-k11.html"
+    },
+    {
+      "item_id": "ern:product::KA321C1IN-J11",
+      "image_path": "data\\zalando_images\\ern_product_KA321C1IN-J11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Kaffe",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/kaffe-maxi-jurk-rose-tan-cc-ka321c1in-j11.html"
+    },
+    {
+      "item_id": "ern:product::NX321A24K-M11",
+      "image_path": "data\\zalando_images\\ern_product_NX321A24K-M11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Next",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/next-carpenter-broek-khaki-green-nx321a24k-m11.html"
+    },
+    {
+      "item_id": "ern:product::KAN21C0E7-D11",
+      "image_path": "data\\zalando_images\\ern_product_KAN21C0E7-D11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Kaffe Curve",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/kaffe-curve-cocktailjurk-silver-sequin-kan21c0e7-d11.html"
+    },
+    {
+      "item_id": "ern:product::AN621I0OV-O11",
+      "image_path": "data\\zalando_images\\ern_product_AN621I0OV-O11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "Anna Field",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/anna-field-trui-brownbeige-an621i0ov-o11.html"
+    },
+    {
+      "item_id": "ern:product::MO421C0DY-M11",
+      "image_path": "data\\zalando_images\\ern_product_MO421C0DY-M11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Modström",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/modstroem-hima-off-shoulder-dress-etui-jurk-grasshopper-mo421c0dy-m11.html"
+    },
+    {
+      "item_id": "ern:product::NX321N0XO-O11",
+      "image_path": "data\\zalando_images\\ern_product_NX321N0XO-O11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Next",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/next-petite-fit-wide-leg-brown-leopard-print-nx321n0xo-o11.html"
+    },
+    {
+      "item_id": "ern:product::Z1721C22Z-O11",
+      "image_path": "data\\zalando_images\\ern_product_Z1721C22Z-O11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Zizzi",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/zizzi-jurk-leo-aop-z1721c22z-o11.html"
+    },
+    {
+      "item_id": "ern:product::NX321A2BA-J11",
+      "image_path": "data\\zalando_images\\ern_product_NX321A2BA-J11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Next",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/next-hareem-broek-pink-nx321a2ba-j11.html"
+    },
+    {
+      "item_id": "ern:product::PUC21N0TO-K11",
+      "image_path": "data\\zalando_images\\ern_product_PUC21N0TO-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "PULL&BEAR",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/pullandbear-relaxed-fit-jeans-dark-blue-puc21n0to-k11.html"
+    },
+    {
+      "item_id": "ern:product::SA321A08B-O11",
+      "image_path": "data\\zalando_images\\ern_product_SA321A08B-O11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Samsøe Samsøe",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/samsoee-samsoee-lot-broek-fossil-sa321a08b-o11.html"
+    },
+    {
+      "item_id": "ern:product::LE421N09B-K14",
+      "image_path": "data\\zalando_images\\ern_product_LE421N09B-K14.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Lee",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/lee-breese-bootcut-jeans-fervent-blue-le421n09b-k14.html"
+    },
+    {
+      "item_id": "ern:product::ON321N2MD-K11",
+      "image_path": "data\\zalando_images\\ern_product_ON321N2MD-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "ONLY",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/only-onlmila-jeans-skinny-fit-dark-blue-denim-on321n2md-k11.html"
+    },
+    {
+      "item_id": "ern:product::BFY21C0JX-G11",
+      "image_path": "data\\zalando_images\\ern_product_BFY21C0JX-G11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "BWLDR",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/bwldr-maxi-jurk-red-bfy21c0jx-g11.html"
+    },
+    {
+      "item_id": "ern:product::A1S21N07H-K11",
+      "image_path": "data\\zalando_images\\ern_product_A1S21N07H-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Angel of Style",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/angel-of-style-destroy-effekte-5-pocket-jeans-tapered-fit-blue-stone-a1s21n07h-k11.html"
+    },
+    {
+      "item_id": "ern:product::VE121C4Q7-J11",
+      "image_path": "data\\zalando_images\\ern_product_VE121C4Q7-J11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Vero Moda",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/vero-moda-vmcamille-singlet-frill-dress-cocktailjurk-sepia-rose-ve121c4q7-j11.html"
+    },
+    {
+      "item_id": "ern:product::SO821A0D8-Q11",
+      "image_path": "data\\zalando_images\\ern_product_SO821A0D8-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Soyaconcept",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/soyaconcept-broek-black-so821a0d8-q11.html"
+    },
+    {
+      "item_id": "ern:product::A0Q21N07U-K11",
+      "image_path": "data\\zalando_images\\ern_product_A0Q21N07U-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "AllSaints",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/allsaints-relaxed-fit-jeans-raw-indigo-blue-a0q21n07u-k11.html"
+    },
+    {
+      "item_id": "ern:product::F2121C08W-O11",
+      "image_path": "data\\zalando_images\\ern_product_F2121C08W-O11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Fransa",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/fransa-jurk-carafe-mix-f2121c08w-o11.html"
+    },
+    {
+      "item_id": "ern:product::ADQ21S00T-Q11",
+      "image_path": "data\\zalando_images\\ern_product_ADQ21S00T-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "adidas Sportswear",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/adidas-sportswear-all-szn-soft-lux-loose-shorts-black-adq21s00t-q11.html"
+    },
+    {
+      "item_id": "ern:product::AN621C200-G11",
+      "image_path": "data\\zalando_images\\ern_product_AN621C200-G11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Anna Field",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/anna-field-see-through-neck-and-sleeves-insert-belted-dress-gebreide-jurk-bordeaux-an621c200-g11.html"
+    },
+    {
+      "item_id": "ern:product::NU121C0PU-J11",
+      "image_path": "data\\zalando_images\\ern_product_NU121C0PU-J11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Nümph",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/nuemph-blousejurk-pinklemonade-nu121c0pu-j11.html"
+    },
+    {
+      "item_id": "ern:product::BY221A0A0-Q11",
+      "image_path": "data\\zalando_images\\ern_product_BY221A0A0-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "b.young",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/byoung-icat-broek-black-mix-by221a0a0-q11.html"
+    },
+    {
+      "item_id": "ern:product::NU121C0JJ-H13",
+      "image_path": "data\\zalando_images\\ern_product_NU121C0JJ-H13.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Nümph",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/nuemph-nukyndall-new-blousejurk-tangerine-nu121c0jj-h13.html"
+    },
+    {
+      "item_id": "ern:product::OP521C0DK-K11",
+      "image_path": "data\\zalando_images\\ern_product_OP521C0DK-K11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Marc O'Polo DENIM",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/marc-opolo-denim-woven-dresses-blousejurk-blue-depths-op521c0dk-k11.html"
+    },
+    {
+      "item_id": "ern:product::RI521N061-K11",
+      "image_path": "data\\zalando_images\\ern_product_RI521N061-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Rich & Royal",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/rich-and-royal-flared-jeans-denim-blue-ri521n061-k11.html"
+    },
+    {
+      "item_id": "ern:product::BFY21C0CZ-Q11",
+      "image_path": "data\\zalando_images\\ern_product_BFY21C0CZ-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "BWLDR",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/bwldr-galajurk-black-bfy21c0cz-q11.html"
+    },
+    {
+      "item_id": "ern:product::E7721A0CS-Q11",
+      "image_path": "data\\zalando_images\\ern_product_E7721A0CS-Q11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Miss Etam",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/miss-etam-broek-black-e7721a0cs-q11.html"
+    },
+    {
+      "item_id": "ern:product::C1E21N07F-K11",
+      "image_path": "data\\zalando_images\\ern_product_C1E21N07F-K11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "comma casual identity",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/comma-casual-identity-cropped-im-slim-fit-slim-fit-jeans-blau-c1e21n07f-k11.html"
+    },
+    {
+      "item_id": "ern:product::POT21C00B-K12",
+      "image_path": "data\\zalando_images\\ern_product_POT21C00B-K12.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Polo Club",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/polo-club-maxi-jurk-navy-pot21c00b-k12.html"
+    },
+    {
+      "item_id": "ern:product::ONA21C10F-Q11",
+      "image_path": "data\\zalando_images\\ern_product_ONA21C10F-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "ONLY Carmakoma",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/only-carmakoma-jurk-black-ona21c10f-q11.html"
+    },
+    {
+      "item_id": "ern:product::WG021C1IN-D11",
+      "image_path": "data\\zalando_images\\ern_product_WG021C1IN-D11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "WAL G.",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/wal-g-grace-ruffle-glitter-cocktailjurk-silver-wg021c1in-d11.html"
+    },
+    {
+      "item_id": "ern:product::NX321A2SD-C11",
+      "image_path": "data\\zalando_images\\ern_product_NX321A2SD-C11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Next",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/next-trainingsbroek-grey-marl-nx321a2sd-c11.html"
+    },
+    {
+      "item_id": "ern:product::E1N21A001-C11",
+      "image_path": "data\\zalando_images\\ern_product_E1N21A001-C11.jpg",
+      "category": "trousers",
+      "garment_type": "bottom",
+      "image_kind": "model",
+      "brand": "Elara",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/elara-broek-grau-e1n21a001-c11.html"
+    },
+    {
+      "item_id": "ern:product::ONA21C10P-B11",
+      "image_path": "data\\zalando_images\\ern_product_ONA21C10P-B11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "ONLY Carmakoma",
+      "style_tags": [
+        "casual",
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/only-carmakoma-carmakinta-homa-shirt-knee-dress-blousejurk-brown-sugar-ona21c10p-b11.html"
+    },
+    {
+      "item_id": "ern:product::BFY21C0KT-K11",
+      "image_path": "data\\zalando_images\\ern_product_BFY21C0KT-K11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "BWLDR",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/bwldr-jurk-navy-blue-bfy21c0kt-k11.html"
+    },
+    {
+      "item_id": "ern:product::MWC21C04F-I11",
+      "image_path": "data\\zalando_images\\ern_product_MWC21C04F-I11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Maryisa",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/maryisa-modest-embellished-sequins-galajurk-lilac-mwc21c04f-i11.html"
+    },
+    {
+      "item_id": "ern:product::S2Q21C0GF-Q11",
+      "image_path": "data\\zalando_images\\ern_product_S2Q21C0GF-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Studio Untold",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/studio-untold-jurk-black-s2q21c0gf-q11.html"
+    },
+    {
+      "item_id": "ern:product::LSJ21C0OG-Q11",
+      "image_path": "data\\zalando_images\\ern_product_LSJ21C0OG-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Love & Roses",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/love-and-roses-gebreide-jurk-black-lsj21c0og-q11.html"
+    },
+    {
+      "item_id": "ern:product::ON329F02W-C11",
+      "image_path": "data\\zalando_images\\ern_product_ON329F02W-C11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "ONLY MATERNITY",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/only-maternity-olmlucy-animal-dress-jerseyjurk-phantom-on329f02w-c11.html"
+    },
+    {
+      "item_id": "ern:product::TOV21C08R-K11",
+      "image_path": "data\\zalando_images\\ern_product_TOV21C08R-K11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Touché Privé",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/touche-prive-color-block-dress-maxi-jurk-navy-blue-tov21c08r-k11.html"
+    },
+    {
+      "item_id": "ern:product::KA321C11M-G12",
+      "image_path": "data\\zalando_images\\ern_product_KA321C11M-G12.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Kaffe",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/kaffe-edna-sleeve-jerseyjurk-raspberry-ka321c11m-g12.html"
+    },
+    {
+      "item_id": "ern:product::OM421C06A-M11",
+      "image_path": "data\\zalando_images\\ern_product_OM421C06A-M11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Ombre",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/ombre-galajurk-green-om421c06a-m11.html"
+    },
+    {
+      "item_id": "ern:product::WF521C0SU-M11",
+      "image_path": "data\\zalando_images\\ern_product_WF521C0SU-M11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "WE Fashion",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/we-fashion-jurk-mint-green-wf521c0su-m11.html"
+    },
+    {
+      "item_id": "ern:product::VEY29F00W-Q11",
+      "image_path": "data\\zalando_images\\ern_product_VEY29F00W-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Vero Moda Maternity",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/vero-moda-maternity-vmmholly-polo-dress-etui-jurk-black-vey29f00w-q11.html"
+    },
+    {
+      "item_id": "ern:product::NL021C28O-Q11",
+      "image_path": "data\\zalando_images\\ern_product_NL021C28O-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "New Look",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/new-look-floral-midi-jurk-black-pattern-nl021c28o-q11.html"
+    },
+    {
+      "item_id": "ern:product::M9121C7TK-C11",
+      "image_path": "data\\zalando_images\\ern_product_M9121C7TK-C11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Mango",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/mango-etui-jurk-grey-m9121c7tk-c11.html"
+    },
+    {
+      "item_id": "ern:product::LRE21C03S-O11",
+      "image_path": "data\\zalando_images\\ern_product_LRE21C03S-O11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "LeGer by Lena Gercke",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/leger-by-lena-gercke-josefina-jurk-chicory-coffee-lre21c03s-o11.html"
+    },
+    {
+      "item_id": "ern:product::CU221C0EI-M11",
+      "image_path": "data\\zalando_images\\ern_product_CU221C0EI-M11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Culture",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/culture-cuelina-kaftan-blousejurk-jolly-green-cu221c0ei-m11.html"
+    },
+    {
+      "item_id": "ern:product::NX321C5BC-M11",
+      "image_path": "data\\zalando_images\\ern_product_NX321C5BC-M11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Next",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/next-regular-fit-crinkle-texture-maxi-jurk-olive-green-nx321c5bc-m11.html"
+    },
+    {
+      "item_id": "ern:product::NX321C4TE-G11",
+      "image_path": "data\\zalando_images\\ern_product_NX321C4TE-G11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "model",
+      "brand": "Next",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/next-galajurk-burgundy-red-nx321c4te-g11.html"
+    },
+    {
+      "item_id": "ern:product::MB121C0L7-K11",
+      "image_path": "data\\zalando_images\\ern_product_MB121C0L7-K11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "mbyM",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/mbym-spijkerjurk-mid-vintage-wash-mb121c0l7-k11.html"
+    },
+    {
+      "item_id": "ern:product::SO921C0IK-Q11",
+      "image_path": "data\\zalando_images\\ern_product_SO921C0IK-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Soaked in Luxury",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/soaked-in-luxury-cocktailjurk-black-so921c0ik-q11.html"
+    },
+    {
+      "item_id": "ern:product::08D21C010-Q11",
+      "image_path": "data\\zalando_images\\ern_product_08D21C010-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Street One Studio",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/street-one-studio-mit-stickerei-jurk-schwarz-08d21c010-q11.html"
+    },
+    {
+      "item_id": "ern:product::6CA21C0E8-C11",
+      "image_path": "data\\zalando_images\\ern_product_6CA21C0E8-C11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Calvin Klein",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/calvin-klein-half-milano-midi-dress-gebreide-jurk-grey-heather-6ca21c0e8-c11.html"
+    },
+    {
+      "item_id": "ern:product::KA321C1BF-Q11",
+      "image_path": "data\\zalando_images\\ern_product_KA321C1BF-Q11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "Kaffe",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/kaffe-blousejurk-black-sand-graphic-cloud-ka321c1bf-q11.html"
+    },
+    {
+      "item_id": "ern:product::NL021C29S-T11",
+      "image_path": "data\\zalando_images\\ern_product_NL021C29S-T11.jpg",
+      "category": "dress",
+      "garment_type": "one_piece",
+      "image_kind": "packshot",
+      "brand": "New Look Curves",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/new-look-jurk-multi-colour-nl021c29s-t11.html"
+    },
+    {
+      "item_id": "ern:product::NAA21C3LT-G11",
+      "image_path": "data\\zalando_images\\ern_product_NAA21C3LT-G11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "NA-KD",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/na-kd-trui-plum-naa21c3lt-g11.html"
+    },
+    {
+      "item_id": "ern:product::L6S21C05X-K11",
+      "image_path": "data\\zalando_images\\ern_product_L6S21C05X-K11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "model",
+      "brand": "LELA",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/lela-fleece-trui-dark-blue-l6s21c05x-k11.html"
+    },
+    {
+      "item_id": "ern:product::AD12100KM-K11",
+      "image_path": "data\\zalando_images\\ern_product_AD12100KM-K11.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "adidas Originals",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/adidas-originals-wielershirt-grey-ad12100km-k11.html"
+    },
+    {
+      "item_id": "ern:product::TOV21I0A7-A11",
+      "image_path": "data\\zalando_images\\ern_product_TOV21I0A7-A11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "model",
+      "brand": "Touché Privé",
+      "style_tags": [
+        "casual",
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/touche-prive-trui-ecru-tov21i0a7-a11.html"
+    },
+    {
+      "item_id": "ern:product::NX321C5CC-Q11",
+      "image_path": "data\\zalando_images\\ern_product_NX321C5CC-Q11.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "Next",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/next-t-shirt-basic-black-ground-nx321c5cc-q11.html"
+    },
+    {
+      "item_id": "ern:product::EV421J0J0-Q11",
+      "image_path": "data\\zalando_images\\ern_product_EV421J0J0-Q11.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "Even&Odd",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/evenandodd-set-trainingspak-black-with-white-stripe-as-top-sample-ev421j0j0-q11.html"
+    },
+    {
+      "item_id": "ern:product::L6S21C05Y-I11",
+      "image_path": "data\\zalando_images\\ern_product_L6S21C05Y-I11.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "model",
+      "brand": "LELA",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/lela-voetbalshirt-land-purple-l6s21c05y-i11.html"
+    },
+    {
+      "item_id": "ern:product::MA321C19G-Q11",
+      "image_path": "data\\zalando_images\\ern_product_MA321C19G-Q11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "Marc O'Polo",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/marc-opolo-trui-black-ma321c19g-q11.html"
+    },
+    {
+      "item_id": "ern:product::NL021I10Z-G11",
+      "image_path": "data\\zalando_images\\ern_product_NL021I10Z-G11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "model",
+      "brand": "New Look",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/new-look-mini-trui-burgundy-nl021i10z-g11.html"
+    },
+    {
+      "item_id": "ern:product::MB121X002-003",
+      "image_path": "data\\zalando_images\\ern_product_MB121X002-003.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "mbyM",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/mbym-lina-tops-voor-dames-wit-mb121x002-003.html"
+    },
+    {
+      "item_id": "ern:product::IP521S02G-A11",
+      "image_path": "data\\zalando_images\\ern_product_IP521S02G-A11.jpg",
+      "category": "skirt",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Ipekyol",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/ipekyol-wikkelrok-white-ip521s02g-a11.html"
+    },
+    {
+      "item_id": "ern:product::V4A21J002-G11",
+      "image_path": "data\\zalando_images\\ern_product_V4A21J002-G11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "model",
+      "brand": "Vivisence",
+      "style_tags": [
+        "casual",
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/vivisence-set-trainingspak-maroon-v4a21j002-g11.html"
+    },
+    {
+      "item_id": "ern:product::BB121C16S-Q11",
+      "image_path": "data\\zalando_images\\ern_product_BB121C16S-Q11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "BOSS",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/boss-fuccia-trui-black-bb121c16s-q11.html"
+    },
+    {
+      "item_id": "ern:product::QM421A0E7-C11",
+      "image_path": "data\\zalando_images\\ern_product_QM421A0E7-C11.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "Marks & Spencer",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/marks-and-spencer-voetbalshirt-land-charcoal-qm421a0e7-c11.html"
+    },
+    {
+      "item_id": "ern:product::TOV21E0IM-Q11",
+      "image_path": "data\\zalando_images\\ern_product_TOV21E0IM-Q11.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "model",
+      "brand": "Touché Privé",
+      "style_tags": [
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/touche-prive-set-overhemdblouse-siyah-tov21e0im-q11.html"
+    },
+    {
+      "item_id": "ern:product::NK021C09H-G11",
+      "image_path": "data\\zalando_images\\ern_product_NK021C09H-G11.jpg",
+      "category": "skirt",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Norma Kamali",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/norma-kamali-boyfriend-shirt-shirred-skirt-dress-blousejurk-plum-nk021c09h-g11.html"
+    },
+    {
+      "item_id": "ern:product::R9821C04P-G11",
+      "image_path": "data\\zalando_images\\ern_product_R9821C04P-G11.jpg",
+      "category": "skirt",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Roksanda",
+      "style_tags": [
+        "formal"
+      ],
+      "uri": "https://www.zalando.nl/roksanda-hayat-dress-cocktailjurk-deep-scarlet-r9821c04p-g11.html"
+    },
+    {
+      "item_id": "ern:product::MA321C19G-K11",
+      "image_path": "data\\zalando_images\\ern_product_MA321C19G-K11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "Marc O'Polo",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/marc-opolo-trui-slate-blue-ma321c19g-k11.html"
+    },
+    {
+      "item_id": "ern:product::TOV21E0IT-H11",
+      "image_path": "data\\zalando_images\\ern_product_TOV21E0IT-H11.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "model",
+      "brand": "Touché Privé",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/touche-prive-patterned-set-overhemdblouse-orange-tov21e0it-h11.html"
+    },
+    {
+      "item_id": "ern:product::SEZ21C0GC-T11",
+      "image_path": "data\\zalando_images\\ern_product_SEZ21C0GC-T11.jpg",
+      "category": "skirt",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "Seasalt Cornwall",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/seasalt-cornwall-blousejurk-multi-dye-strokes-dark-lugger-sez21c0gc-t11.html"
+    },
+    {
+      "item_id": "ern:product::NAA21C3LR-C11",
+      "image_path": "data\\zalando_images\\ern_product_NAA21C3LR-C11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "NA-KD",
+      "style_tags": [
+        "casual"
+      ],
+      "uri": "https://www.zalando.nl/na-kd-trui-dark-grey-melange-naa21c3lr-c11.html"
+    },
+    {
+      "item_id": "ern:product::VE121C3UE-Q11",
+      "image_path": "data\\zalando_images\\ern_product_VE121C3UE-Q11.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "model",
+      "brand": "Vero Moda",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/vero-moda-t-shirt-basic-black-ve121c3ue-q11.html"
+    },
+    {
+      "item_id": "ern:product::N1241E15O-J15",
+      "image_path": "data\\zalando_images\\ern_product_N1241E15O-J15.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "Nike Performance",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/nike-performance-365-short-tights-rush-pinkwhite-n1241e15o-j15.html"
+    },
+    {
+      "item_id": "ern:product::EV421J0EF-Q11",
+      "image_path": "data\\zalando_images\\ern_product_EV421J0EF-Q11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "Even&Odd",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/evenandodd-basic-set-trainingspak-black-ev421j0ef-q11.html"
+    },
+    {
+      "item_id": "ern:product::EV421J0J9-C11",
+      "image_path": "data\\zalando_images\\ern_product_EV421J0J9-C11.jpg",
+      "category": "pullover",
+      "garment_type": "top",
+      "image_kind": "packshot",
+      "brand": "Even&Odd",
+      "style_tags": [
+        "casual",
+        "streetwear"
+      ],
+      "uri": "https://www.zalando.nl/evenandodd-sweater-forged-iron-ev421j0j9-c11.html"
+    },
+    {
+      "item_id": "ern:product::L6S21A03K-K11",
+      "image_path": "data\\zalando_images\\ern_product_L6S21A03K-K11.jpg",
+      "category": "top",
+      "garment_type": "top",
+      "image_kind": "model",
+      "brand": "LELA",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/lela-t-shirt-basic-dark-blue-l6s21a03k-k11.html"
+    },
+    {
+      "item_id": "ern:product::SOA21A0FO-Q11",
+      "image_path": "data\\zalando_images\\ern_product_SOA21A0FO-Q11.jpg",
+      "category": "skirt",
+      "garment_type": "bottom",
+      "image_kind": "packshot",
+      "brand": "s.Oliver BLACK LABEL",
+      "style_tags": [
+        "minimal"
+      ],
+      "uri": "https://www.zalando.nl/soliver-black-label-a-lijn-rok-schwarz-soa21a0fo-q11.html"
+    }
+  ]
+}
